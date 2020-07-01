@@ -1,0 +1,9 @@
+@tailwind base;
+
+body {
+  @apply bg-inmation-darkest;
+}
+
+@tailwind components;
+
+@tailwind utilities;
